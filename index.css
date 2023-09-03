@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+*{
+    font-family: 'VT323', monospace;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.question{
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    width:min-content;
+    max-width:250px ;    
+}
+#inputadd{
+font-size: 80px;
+}
+/* .color{
+    background-color: black;
+    color: white;
+} */
